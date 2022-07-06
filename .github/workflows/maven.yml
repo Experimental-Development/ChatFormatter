@@ -27,7 +27,7 @@ jobs:
     # Artifact name
         name: ChatFormatter # optional, default is artifact
     # A file, directory or wildcard pattern that describes what to upload
-        path: /home/runner/work/ChatFormatter/ChatFormatter/target/*
+        path: /home/runner/work/ChatFormatter/ChatFormatter/target/*.jar
 
         if-no-files-found: error # optional, default is warn
     # Duration after which artifact will expire in days. 0 means using default retention.
