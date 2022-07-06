@@ -1,0 +1,6 @@
+name: ChatFormatter
+version: 1.0
+author: ExperimentalX
+main: me.experimental.Main
+
+depend: [PlaceholderAPI]
